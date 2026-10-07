@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://vivlk.github.io/portfolio/</loc><priority>1.0</priority></url>
-  <url><loc>https://vivlk.github.io/portfolio/case.html?p=arca</loc><priority>0.8</priority></url>
-  <url><loc>https://vivlk.github.io/portfolio/case.html?p=northwall</loc><priority>0.8</priority></url>
-  <url><loc>https://vivlk.github.io/portfolio/case.html?p=zaria</loc><priority>0.8</priority></url>
-  <url><loc>https://vivlk.github.io/portfolio/case.html?p=uniform</loc><priority>0.8</priority></url>
-  <url><loc>https://vivlk.github.io/portfolio/case.html?p=vitok</loc><priority>0.8</priority></url>
-  <url><loc>https://vivlk.github.io/portfolio/case.html?p=leaf-field</loc><priority>0.8</priority></url>
-  <url><loc>https://vivlk.github.io/portfolio/case.html?p=strata</loc><priority>0.8</priority></url>
-  <url><loc>https://vivlk.github.io/portfolio/case.html?p=skylingua</loc><priority>0.8</priority></url>
-  <url><loc>https://vivlk.github.io/portfolio/case.html?p=keld</loc><priority>0.8</priority></url>
-  <url><loc>https://vivlk.github.io/portfolio/case.html?p=sylva</loc><priority>0.8</priority></url>
-  <url><loc>https://vivlk.github.io/portfolio/case.html?p=kadr</loc><priority>0.8</priority></url>
-  <url><loc>https://vivlk.github.io/portfolio/case.html?p=apnea</loc><priority>0.8</priority></url>
-  <url><loc>https://vivlk.github.io/portfolio/case.html?p=bodybrush</loc><priority>0.8</priority></url>
+  <url><loc>https://vivlk.github.io/portfolio/case-arca.html</loc><priority>0.8</priority></url>
+  <url><loc>https://vivlk.github.io/portfolio/case-charge.html</loc><priority>0.8</priority></url>
+  <url><loc>https://vivlk.github.io/portfolio/case-northwall.html</loc><priority>0.8</priority></url>
+  <url><loc>https://vivlk.github.io/portfolio/case-zaria.html</loc><priority>0.8</priority></url>
+  <url><loc>https://vivlk.github.io/portfolio/case-uniform.html</loc><priority>0.8</priority></url>
+  <url><loc>https://vivlk.github.io/portfolio/case-vitok.html</loc><priority>0.8</priority></url>
+  <url><loc>https://vivlk.github.io/portfolio/case-leaf-field.html</loc><priority>0.8</priority></url>
+  <url><loc>https://vivlk.github.io/portfolio/case-strata.html</loc><priority>0.8</priority></url>
+  <url><loc>https://vivlk.github.io/portfolio/case-skylingua.html</loc><priority>0.8</priority></url>
+  <url><loc>https://vivlk.github.io/portfolio/case-keld.html</loc><priority>0.8</priority></url>
+  <url><loc>https://vivlk.github.io/portfolio/case-sylva.html</loc><priority>0.8</priority></url>
+  <url><loc>https://vivlk.github.io/portfolio/case-kadr.html</loc><priority>0.8</priority></url>
+  <url><loc>https://vivlk.github.io/portfolio/case-apnea.html</loc><priority>0.8</priority></url>
+  <url><loc>https://vivlk.github.io/portfolio/case-bodybrush.html</loc><priority>0.8</priority></url>
   <url><loc>https://vivlk.github.io/portfolio/privacy.html</loc><priority>0.8</priority></url>
 </urlset>

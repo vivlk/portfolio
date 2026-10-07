@@ -13,8 +13,12 @@ Apache License 2.0. Copyright Google LLC
 https://github.com/google/model-viewer
 
 Fonts: Onest, Martian Mono, Bitcount Single, Geist, Geist Mono, Inter Tight, Outfit,
-DM Sans, Instrument Sans, IBM Plex Mono, Prata, Playfair Display, Alumni Sans, Archivo Black —
+DM Sans, Instrument Sans, IBM Plex Mono, Prata, Playfair Display, Alumni Sans, Archivo Black,
+Mona Sans, Departure Mono, Unbounded, Geologica —
 SIL Open Font License 1.1, https://openfontlicense.org
+
+Map data in the charge demo site — © OpenStreetMap contributors,
+Open Database License (ODbL) 1.0, https://www.openstreetmap.org/copyright
 
 MIT License text:
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software
